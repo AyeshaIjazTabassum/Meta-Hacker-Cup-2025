@@ -10,7 +10,7 @@ Metal Platforms Inc. has tasked you to write a program, "Scale AI", to find the 
 1≤Ai≤100 </br>
 
 # Input Format
-Input begins with a single integer T, the number of test cases. The first line of each case is a single integer N. The second line of each case contains N space-separated integers A1,...,AN.
+Input begins with a single integer T, the number of test cases. The first line of each case is a single integer N. The second line of each case contains N space-separated integers A1, ..., AN.
 
 # Output Format
 For the i-th test case, print "Case #i: " followed by the length of the shortest ladder that Solid Snake needs to visit each platform at least once.
