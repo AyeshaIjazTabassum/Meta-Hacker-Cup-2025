@@ -14,9 +14,11 @@ Input begins with a single integer T, the number of test cases. The first line o
 
 # Output Format
 For the i-th test case, print "Case #i: " followed by the length of the shortest ladder that Solid Snake needs to visit each platform at least once.
-Sample Explanation
-In the first sample case, there are N=5 platforms with heights A=[2,4,5,1,4] respectively. To be able to access all the platforms, Solid Snake needs a ladder of at least height 4, with potential placements shown below.
 
+# Sample Explanation
+In the first sample case, there are N=5 platforms with heights A=[2,4,5,1,4] respectively. To be able to access all the platforms, Solid Snake needs a ladder of at least height 4, with potential placements shown below.</br>
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/708fe044-b483-4485-b889-f83706e39aa3" />
+</br>
 # Sample Input
 6 </br>
 5 </br>
@@ -31,9 +33,6 @@ In the first sample case, there are N=5 platforms with heights A=[2,4,5,1,4] res
 5 50 42 </br>
 7 </br>
 4 2 5 6 4 2 1 </br>
-
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/708fe044-b483-4485-b889-f83706e39aa3" />
-</br>
 
 # Sample Output
 Case #1: 4 </br>
