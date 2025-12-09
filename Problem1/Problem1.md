@@ -32,7 +32,7 @@ In the first sample case, there are N=5 platforms with heights A=[2,4,5,1,4] res
 7 </br>
 4 2 5 6 4 2 1 </br>
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/708fe044-b483-4485-b889-f83706e39aa3" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/708fe044-b483-4485-b889-f83706e39aa3" />
 </br>
 
 # Sample Output
