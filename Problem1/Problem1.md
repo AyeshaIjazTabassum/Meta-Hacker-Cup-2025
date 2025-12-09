@@ -1,7 +1,8 @@
 # Snake Scales (Chapter 1)
 
-This problem shares similarities with chapter 2. Here in chapter 1, the ground cannot be used. Solid Snake is back at work scaling Metal Platforms! This time, he is bringing his own ladder. Solid Snake needs to inspect N platforms, numbered 
-1 to N. The i-th platform is a horizontal line segment from points (i,Ai) to (i+1,Ai), inclusive. Solid Snake starts on platform 1. He can travel between two platforms with a ladder of height h or greater if there exists a vertical line segment of length h that intersects both platforms.
+This problem shares similarities with chapter 2. Here in chapter 1, the ground cannot be used.</br> 
+Solid Snake is back at work scaling Metal Platforms! This time, he is bringing his own ladder.</br>
+Solid Snake needs to inspect N platforms, numbered 1 to N. The i-th platform is a horizontal line segment from points (i,Ai) to (i+1,Ai), inclusive. Solid Snake starts on platform 1. He can travel between two platforms with a ladder of height h or greater if there exists a vertical line segment of length h that intersects both platforms.</br>
 Metal Platforms Inc. has tasked you to write a program, "Scale AI", to find the length of the shortest ladder that Solid Snake needs to visit each platform at least once, starting from platform 1.
 
 # Constraints
